@@ -1,0 +1,4 @@
+interface:
+  display_name: "Granblue Account"
+  short_description: "Track GBF account state and progression by element"
+  default_prompt: "Open Granblue with Playwright, inspect my account progression, update the local docs, and recommend the next priorities across fire, water, wind, earth, light, and dark."
