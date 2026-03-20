@@ -1,6 +1,6 @@
 # Granblue Account State
 
-Last updated: 2026-03-12
+Last updated: 2026-03-20
 
 ## Current Evidence
 
@@ -52,12 +52,10 @@ Last updated: 2026-03-12
 
 ## Fire
 
-- Status: partial evidence only
-- Core characters: at least several SSRs are visible on the first inventory page, including two level `80` fire SSRs and one `In Party` fire SSR
-- Main summons: unknown
-- Grid notes: unknown
-- Preliminary read: likely usable, but not enough evidence to call it a lead element
-- Next action: open the fire party page and record the main team, summon, and weapon grid
+- Status: pretty much done
+- Magna fire OTK & HL: done
+- OTK gap: only need `H.Wamdus`
+- Grid: magna, functional
 
 ## Water
 
