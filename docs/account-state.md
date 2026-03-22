@@ -1,6 +1,6 @@
 # Granblue Account State
 
-Last updated: 2026-03-20
+Last updated: 2026-03-22
 
 ## Current Evidence
 
@@ -59,12 +59,9 @@ Last updated: 2026-03-20
 
 ## Water
 
-- Status: partial evidence only
-- Core characters: at least two visible SSRs on the first inventory page, both currently low-level or not yet built
-- Main summons: unknown
-- Grid notes: unknown
-- Preliminary read: currently the weakest-looking visible element from the first page
-- Next action: open the water party page and record the main team, summon, and weapon grid
+- Status: mostly done
+- Gap: minus HL content with grand
+- Next action: build out grand setup for HL
 
 ## Wind
 
