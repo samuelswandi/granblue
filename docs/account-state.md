@@ -1,6 +1,6 @@
 # Granblue Account State
 
-Last updated: 2026-03-22
+Last updated: 2026-03-24
 
 ## Current Evidence
 
@@ -65,12 +65,8 @@ Last updated: 2026-03-22
 
 ## Wind
 
-- Status: partial evidence only
-- Core characters: at least four visible SSRs on the first inventory page, including two marked `In Party`
-- Main summons: unknown
-- Grid notes: unknown
-- Preliminary read: one of the better-looking elements from current evidence
-- Next action: open the wind party page and record the main team, summon, and weapon grid
+- Status: capped
+- Capped with eternals
 
 ## Earth
 
