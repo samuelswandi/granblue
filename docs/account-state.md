@@ -1,6 +1,6 @@
 # Granblue Account State
 
-Last updated: 2026-03-24
+Last updated: 2026-03-27
 
 ## Current Evidence
 
@@ -70,11 +70,8 @@ Last updated: 2026-03-24
 
 ## Earth
 
-- Status: pending inspection
-- Core characters: unknown
-- Main summons: unknown
-- Grid notes: unknown
-- Next action: inventory evidence is not visible yet; open the earth party page and record the main team, summon, and weapon grid
+- Status: near done
+- Gaps: need `V.Makura` and `S.Raziel`
 
 ## Light
 
