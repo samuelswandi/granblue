@@ -1,6 +1,6 @@
 # Granblue Account State
 
-Last updated: 2026-03-27
+Last updated: 2026-03-28
 
 ## Current Evidence
 
@@ -75,12 +75,8 @@ Last updated: 2026-03-27
 
 ## Light
 
-- Status: partial evidence only
-- Core characters: strongest visible breadth from the first inventory page, including several SSRs and at least two marked `In Party`
-- Main summons: unknown
-- Grid notes: unknown
-- Preliminary read: best visible candidate for your current carry element
-- Next action: open the light party page and record the main team, summon, and weapon grid
+- Status: near done
+- Gap: need `H.Mugen`
 
 ## Dark
 
