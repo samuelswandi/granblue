@@ -1,6 +1,6 @@
 # Granblue Account State
 
-Last updated: 2026-03-28
+Last updated: 2026-03-30
 
 ## Current Evidence
 
@@ -23,32 +23,25 @@ Last updated: 2026-03-28
 
 ## Overall Value
 
-- Current estimate: `mid`, with upside depending on summons and grids
-- Confidence: low
-- Why: the roster breadth is clearly beyond a starter account, but party pages, summons, and weapon grids are still missing
+- Current estimate: `high`
+- Confidence: high
+- Why: all six elements are functional with most at or near completion; only a handful of specific units remain as gaps
 
 ## Progress Read
 
-- Roster acquisition is ahead of build depth.
-  - Evidence: many visible SSRs exist, but several are still at `Lv1` while a smaller subset is at `Lv80` or higher.
-- The account looks like it already has enough characters to stop thinking in terms of "getting units" and start thinking in terms of "finishing teams".
-- The visible `In Party` tags imply active use in at least `Fire`, `Wind`, `Light`, and `Dark`.
-- `Light` looks like the deepest visible element from the first inventory page.
-- `Water` looks less built from the current evidence.
-- The real breakpoint for account value is now likely weapons and summons, not raw character count.
+- Wind is capped (eternals). Fire magna OTK & HL done. Water, Earth, Light, Dark all near done with 1-2 unit gaps each.
+- Remaining gaps:
+  - Fire OTK: `H.Wamdus`
+  - Water HL: grand setup
+  - Earth: `V.Makura`, `S.Raziel`
+  - Light: `H.Mugen`
+  - Dark: `Sariel`
 
 ## Current Recommendation
 
-- Do not spread resources evenly across all six elements yet.
-- Pick one carry element first.
-  - Best provisional candidates: `Light` or `Wind`
-- Build a second practical element after that.
-  - Best provisional candidates: `Fire` or `Dark`
-- Treat `Water` and unknown elements as lower priority until the grid and summon pages prove otherwise.
-- Next evidence needed for a serious valuation:
-  - one party screenshot per element
-  - one summon page per element
-  - one weapon grid per element
+- Target the remaining unit gaps through sparks or seasonal banners.
+- Water grand HL setup is the biggest functional gap left.
+- Everything else is single-unit pickups.
 
 ## Fire
 
@@ -80,9 +73,5 @@ Last updated: 2026-03-28
 
 ## Dark
 
-- Status: partial evidence only
-- Core characters: at least two visible SSRs on the first inventory page, including one marked `In Party`
-- Main summons: unknown
-- Grid notes: unknown
-- Preliminary read: probably functional as a secondary element, but not enough evidence yet
-- Next action: open the dark party page and record the main team, summon, and weapon grid
+- Status: near done
+- Gap: need `Sariel`
