@@ -43,44 +43,6 @@ __TOC__
 == Character Collection ==
 {{/Collection Tracker}}
 
-== Element Progress ==
-
-=== Fire ===
-* [[/Fire|Fire page]]
-* Main teams:
-* Next upgrades:
-* Current goals:
-
-=== Water ===
-* [[/Water|Water page]]
-* Main teams:
-* Next upgrades:
-* Current goals:
-
-=== Earth ===
-* [[/Earth|Earth page]]
-* Main teams:
-* Next upgrades:
-* Current goals:
-
-=== Wind ===
-* [[/Wind|Wind page]]
-* Main teams:
-* Next upgrades:
-* Current goals:
-
-=== Light ===
-* [[/Light|Light page]]
-* Main teams:
-* Next upgrades:
-* Current goals:
-
-=== Dark ===
-* [[/Dark|Dark page]]
-* Main teams:
-* Next upgrades:
-* Current goals:
-
 == [[/GW History|GW History]] ==
 {{/GW History}}
 
