@@ -1,0 +1,88 @@
+<div style="float:right;">{{User:Zynix/Profile
+|mcskin=210301 kt 1 01
+|id=YOUR_ID
+|name=Zynix
+|title=YOUR_TITLE
+|comment=YOUR_COMMENT<br>2026.04.13 made YYYY.MM.DD
+|weapon=YOUR_FAVORITE_WEAPON
+|summon=YOUR_FAVORITE_SUMMON
+|char1=Character 1|ring1=
+|char2=Character 2|ring2=
+|char3=Character 3|art3=|ring3=
+|char4=Character 4|ring4=
+|char5=
+}}</div>
+
+<div style="float:left;">
+__TOC__
+</div>
+
+{{clear}}
+
+== Support Summons ==
+{{User:Zynix/SupportSummon
+|id=YOUR_ID
+|fire1=Colossus Omega|ufire1=t5
+|fire2=empty|ufire2=
+|water1=Leviathan Omega|uwater1=t5
+|water2=empty|uwater2=
+|earth1=Yggdrasil Omega|uearth1=t5
+|earth2=empty|uearth2=
+|wind1=Tiamat Omega|uwind1=t5
+|wind2=empty|uwind2=
+|light1=Luminiera Omega|ulight1=t5
+|light2=empty|ulight2=
+|dark1=Celeste Omega|udark1=t5
+|dark2=empty|udark2=
+|misc1=Qilin|umisc1=mlb
+|misc2=Huanglong|umisc2=mlb
+|misc3=empty|umisc3=
+|misc4=empty|umisc4=
+}}
+
+== Character Collection ==
+{{/Collection Tracker}}
+
+== Element Progress ==
+
+=== Fire ===
+* [[/Fire|Fire page]]
+* Main teams:
+* Next upgrades:
+* Current goals:
+
+=== Water ===
+* [[/Water|Water page]]
+* Main teams:
+* Next upgrades:
+* Current goals:
+
+=== Earth ===
+* [[/Earth|Earth page]]
+* Main teams:
+* Next upgrades:
+* Current goals:
+
+=== Wind ===
+* [[/Wind|Wind page]]
+* Main teams:
+* Next upgrades:
+* Current goals:
+
+=== Light ===
+* [[/Light|Light page]]
+* Main teams:
+* Next upgrades:
+* Current goals:
+
+=== Dark ===
+* [[/Dark|Dark page]]
+* Main teams:
+* Next upgrades:
+* Current goals:
+
+== [[/GW History|GW History]] ==
+{{/GW History}}
+
+== Misc Trackers ==
+{{/Misc_Trackers}}

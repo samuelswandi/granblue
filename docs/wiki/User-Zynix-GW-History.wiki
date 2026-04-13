@@ -1,0 +1,7 @@
+{| class="wikitable"
+! GW !! Element !! Honors/Ranking !! Notes
+|-
+| <!-- Jan 2026 --> || <!-- element --> || <!-- result --> || <!-- notes -->
+|-
+| <!-- next --> || <!-- element --> || <!-- result --> || <!-- notes -->
+|}

@@ -1,0 +1,13 @@
+= ELEMENT =
+
+== Grid ==
+
+== Teams ==
+
+== Weapons ==
+
+== Summons ==
+
+== Upgrade Goals ==
+
+== Notes ==
